@@ -1,0 +1,36 @@
+{
+  "name": "assert-dotenv-cli",
+  "version": "1.0.0",
+  "description": "loads and asserts environment settings from dotenv files prior to executing CLI commands",
+  "bin": {
+    "assert-dotenv": "index.js"
+  },
+  "scripts": {
+    "test": "tape 'test/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busterc/assert-dotenv-cli.git"
+  },
+  "keywords": [
+    "assert-dotenv",
+    "dotenv",
+    "assert",
+    "cli",
+    "environment",
+    "env"
+  ],
+  "author": "Buster Collings <busterc@gmail.com> (https://about.me/buster)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busterc/assert-dotenv-cli/issues"
+  },
+  "homepage": "https://github.com/busterc/assert-dotenv-cli#readme",
+  "dependencies": {
+    "assert-dotenv": "^3.0.0",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
