@@ -1,4 +1,7 @@
 # assert-dotenv-cli [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/assert-dotenv-cli.svg)](https://greenkeeper.io/)
+
 > loads and asserts environment settings from dotenv files prior to executing CLI commands
 
 - See [`assert-dotenv`](https://github.com/busterc/assert-dotenv) for more information about the mechanics and reasoning behind this.
