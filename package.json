@@ -28,7 +28,7 @@
   "homepage": "https://github.com/busterc/assert-dotenv-cli#readme",
   "dependencies": {
     "assert-dotenv": "^3.0.0",
-    "meow": "^3.7.0"
+    "meow": "^5.0.0"
   },
   "devDependencies": {
     "tape": "^4.5.1"
